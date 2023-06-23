@@ -1,2 +1,2 @@
 # Demojenkins
-Demo_Jenkins_file test 
+Demo_Jenkins_file Polling
